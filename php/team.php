@@ -3,7 +3,7 @@
   if($_SERVER["REQUEST_METHOD"] == "GET"){
     parse_str($_SERVER['QUERY_STRING']);
 
-    $conn = mysqli_connect("localhost", "root", "", "acm_svnit");
+    $conn = mysqli_connect("localhost", "root", "", "acm-svnit");
     // Check connection
     if (!$conn) {
         die("Connection failed: " . mysqli_connect_error());
