@@ -7,6 +7,6 @@
 5> Open the acm-nit-surat/index.html in localhost server.
 
 ## Things to take care while you create a PR
-1> Make sure that the commit message is same as the name of the issue.
-2> If you want to file a new bug, please send me the description of it and I will see if we can include that.
-3> Your pull request should contain only one commit.
+1> Make sure that the commit message is same as the name of the issue.</br>
+2> If you want to file a new bug, please send me the description of it and I will see if we can include that.</br>
+3> Your pull request should contain only one commit.</br>
