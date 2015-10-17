@@ -1,4 +1,4 @@
-﻿/*
+/*
 Template Name: SinglePro - Multipurpose Bootstrap HTML5/CSS3 One Page Template
 Template URI:http://www.wpfreeware.com/themes/premium/singlepro/
 Author: WpFreeware Team
@@ -570,7 +570,7 @@ div[data-dimension] {
 /*--------------------*/
 
 #works {
-  background-color: #373a41;
+  background-color: #4f535e;
   display: inline;
   float: left;
   /* Make "padding: 0 0 80px" when photoshoot section is impleted*/
@@ -866,7 +866,7 @@ div[data-dimension] {
 /*--------------------*/
 
 #contact{
-	background: none repeat scroll 0 0 #0d323f;
+	background: none repeat scroll 0 0 #242434;
 	display: inline;
 	float: left;
 	padding: 80px 0px 0px;
@@ -995,7 +995,7 @@ textarea .form-control {
   color: #ffffff;
 }
 .single_contact_feaured>p{
-	color: #d8d8d8;
+	color: #888888;
 }
 .success {
   border: 1px solid #008000;
@@ -1011,7 +1011,7 @@ textarea .form-control {
 }
 
 #contactFeature{
-	background-color: #114558;
+	background-color: #4f535e;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;	
 	position: relative;
@@ -1072,7 +1072,7 @@ textarea .form-control {
 	display: inline;
 	width: 100%;
 	padding: 20px;
-	background-color: #1f1f1f;
+	background-color: #444;
 }
 .footer_left{
 	float: left;
