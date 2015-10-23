@@ -195,9 +195,19 @@ img{
   right: 0;
   top: 0;
   width: 100%;
-  z-index: 9;
+  z-index: 9;  
+  color: #fff;
 }
-
+.techiq{
+  text-align: center;
+  margin-top: 35%;
+}
+.ctf{
+  text-align: right;
+  margin-top: 30%;
+  color: #00CCFF;
+  margin-right: 2%;
+}
 /*===SLIDER NAVIGATIONS==*/
 
 .slides-navigation a {
